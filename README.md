@@ -1,2 +1,2 @@
 # Assembly-String-Sorting
-An assignment from my Assembly class where I had to sort three strings alphabetically. 
+An assignment from my Assembly class where I had to sort three strings alphabetically. It has three strings and then the order is placed into a variable called stringorder in hexadecimal (for example, 0x0312 for the third string first, then first string second, then second string last). Code wise it's a little too verbose and is probably missing an edge case here or there but it still managed to snag me a 100% in the class.
